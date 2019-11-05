@@ -1,0 +1,20 @@
+body {
+  background-color: #B4BCBF;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5em;
+}
+
+.film_list {
+  font-size: 1.5em;
+  text-align: center;
+  list-style-type: none;
+
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
